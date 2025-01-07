@@ -10,6 +10,7 @@ This calculator project aims to create a user-friendly application for performin
 
 **Project Overview**
 This project is a simple calculator application designed to perform basic arithmetic operations. It provides a graphical user interface (GUI) that allows users to easily input numbers and perform calculations.
+
 ![0](https://github.com/user-attachments/assets/61d22737-3397-4ad6-9424-7c6d7fb0e6c1)
 
 
